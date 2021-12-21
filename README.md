@@ -1,6 +1,6 @@
 # Hex
 
-**Hex** is an interactive board game where a user plays against a “robot” on an MxN Hex board. A user can choose to be Player 1 or 2, and can choose between two modes of difficulty: normal and hard. I originally got the idea for this game from one of my C/C++ course projects, of which I’ve included in this project’s directory.
+**Hex** is an interactive board game where a user plays against a “robot” on an MxN Hex board. A user can choose to be Player 1 or 2, and can select one of two modes of difficulty: normal and hard. I originally got the idea for this game from one of my C/C++ course projects, of which I’ve included in this project’s directory.
 
 You can play the game by clicking the link below. Enjoy!
 - [Link to game](https://deckardmehdy.github.io/Hex/)
